@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.vjs-icon-placeholder {
+    color:yellow ;
+}
+
+.video-block {
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
